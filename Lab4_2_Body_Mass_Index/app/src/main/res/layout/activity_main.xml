@@ -4,7 +4,10 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="16dp"
-    android:background="#FFFFFF"> <TextView
+    android:background="#FFFFFF">
+
+
+    <TextView
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:text="Chương trình tính chỉ số BMI"
@@ -12,7 +15,10 @@
     android:textStyle="bold"
     android:gravity="center"
     android:paddingBottom="16dp"
-    android:background="#FFFFE0" /> <LinearLayout
+    android:background="#FFFFE0" />
+
+
+    <LinearLayout
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:orientation="horizontal"
