@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1007561030934",
+    "firebase_url": "https://pickerballserver-default-rtdb.firebaseio.com",
+    "project_id": "pickerballserver",
+    "storage_bucket": "pickerballserver.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007561030934:android:d32630dd2ece3ee9f62437",
+        "android_client_info": {
+          "package_name": "com.example.pickerballmobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDitlmBJub7CFWTHI0NTOdtEop5EwGac8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
